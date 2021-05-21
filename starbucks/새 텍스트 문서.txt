@@ -1,0 +1,1 @@
+seoul_starbucks_df.drop_duplicates(['매장명'])
